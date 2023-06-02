@@ -1,0 +1,8 @@
+org.opencv.test.opencv-androidTest-0 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\generated\res\resValues\androidTest\debug
+org.opencv.test.opencv-androidTest-1 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\generated\res\rs\androidTest\debug
+org.opencv.test.opencv-mergeDebugAndroidTestResources-2 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.opencv.test.opencv-mergeDebugAndroidTestResources-3 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.opencv.test.opencv-merged_res-4 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\intermediates\merged_res\debugAndroidTest
+org.opencv.test.opencv-packaged_res-5 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\intermediates\packaged_res\debug
+org.opencv.test.opencv-androidTest-6 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\src\androidTest\res
+org.opencv.test.opencv-androidTestDebug-7 C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\src\androidTestDebug\res

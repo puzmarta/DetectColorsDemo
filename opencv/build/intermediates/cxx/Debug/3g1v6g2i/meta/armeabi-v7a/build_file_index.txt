@@ -1,0 +1,1 @@
+C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\libcxx_helper\CMakeLists.txt

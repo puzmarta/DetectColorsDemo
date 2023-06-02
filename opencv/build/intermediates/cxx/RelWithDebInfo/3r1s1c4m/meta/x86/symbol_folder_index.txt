@@ -1,0 +1,1 @@
+C:\Users\mati2\AndroidStudioProjects\DetectColorsDemo\opencv\build\intermediates\cxx\RelWithDebInfo\3r1s1c4m\obj\x86
